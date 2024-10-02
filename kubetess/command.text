@@ -1,5 +1,8 @@
 docker pull imsuriyapi/todo-app:v4
 
+http://localhost:30002/api/health
+http://localhost:30002/api/todo
+
 kubectl get all
 kubectl logs client-pod
 
