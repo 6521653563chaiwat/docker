@@ -13,3 +13,6 @@ kubectl apply -f client-service.yml
 kubectl apply -f .
 
 kubectl delete all --all
+
+http://todo.com/
+http://todo.com/api/todo
